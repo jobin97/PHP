@@ -12,5 +12,5 @@ include 'include/header.php'?>
         echo'<h3 style="color:red"> You have Failed the Test</h3>';
     }
     ?>
-    <button class="button">submit</button>
+    <button type="button" class="btn btn-primary">submit</button>
 <?php require 'include/footer.php'?>
